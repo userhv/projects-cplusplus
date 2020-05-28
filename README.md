@@ -14,9 +14,9 @@ Conway escolheu suas regras cuidadosamente, após um longo período de experimen
 
 3. Deve haver imagens iniciais simples que cresçam e mudem por um período de tempo considerável antes de chegar a um fim das possíveis formas:
 
-   1.**Sumindo completamente** (por superpopulação ou por ficarem muito distantes)
+   1. **Sumindo completamente** (por superpopulação ou por ficarem muito distantes)
    
-   2.**Estacionando em uma configuração estável que se mantem imutável para sempre**, ou entrando em uma fase de oscilação na qual são repetidos ciclos infinitos de período dois ou mais.
+   2. **Estacionando em uma configuração estável que se mantem imutável para sempre**, ou entrando em uma fase de oscilação na qual são repetidos ciclos infinitos de período dois ou mais.
 
 
 Em outras palavras, as regras deviam tornar o comportamento das populações ao mesmo tempo interessante e imprevisível.
