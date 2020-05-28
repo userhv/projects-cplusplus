@@ -29,3 +29,5 @@ Em outras palavras, as regras deviam tornar o comportamento das populações ao 
 4. Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.
 
   É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um "instante" na história da vida completa da configuração inicial.
+
+---
