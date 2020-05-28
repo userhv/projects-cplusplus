@@ -1,4 +1,4 @@
-<h2>Universidade Federal de Minas Gerais - Ciencia da Computação </h2>
+<h2>Universidade Federal de Minas Gerais - DCC </h2>
 <h3>Programação e Desenvolvimento de Software II</h3>
 
 ## [**Jogo da Vida (Game of Life)**](https://github.com/userhv/projects-cplusplus/blob/master/jogo-da-vida.cpp) 
@@ -18,7 +18,7 @@ Conway escolheu suas regras cuidadosamente, após um longo período de experimen
 
 Em outras palavras, as regras deviam tornar o comportamento das populações ao mesmo tempo interessante e imprevisível.
 
-<b1>As regras são simples e elegantes:</b1>
+_As regras são simples e elegantes:_
 
 1. Qualquer célula viva com menos de dois vizinhos vivos morre de solidão.
 2. Qualquer célula viva com mais de três vizinhos vivos morre de superpopulação.
