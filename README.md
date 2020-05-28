@@ -1,7 +1,7 @@
 <h2>Universidade Federal de Minas Gerais - DCC </h2>
 <h3>Programação e Desenvolvimento de Software II</h3>
 
-## [**Jogo da Vida (Game of Life)**](https://github.com/userhv/projects-cplusplus/blob/master/jogo-da-vida.cpp) 
+## [**Jogo da Vida (Game of Life)**](https://github.com/userhv/projects-cplusplus/tree/master/Game-of-Life) 
 
 Conway escolheu suas regras cuidadosamente, após um longo período de experimentos, para satisfazer três critérios:
 
