@@ -4,7 +4,7 @@
 <h3>Programação e Desenvolvimento de Software II</h3>
 
 
-<b1> **Jogo da Vida (Game of Life)** </b1>
+## **Jogo da Vida (Game of Life)** 
 
 Conway escolheu suas regras cuidadosamente, após um longo período de experimentos, para satisfazer três critérios:
 
